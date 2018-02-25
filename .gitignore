@@ -1,0 +1,10 @@
+#object
+*.o
+*.obj
+
+#lib/so
+*.so
+*.a
+
+#target
+a.out
