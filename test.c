@@ -4,3 +4,8 @@ int fun()
 {
 	return 1;
 }
+
+int finish()
+{
+	return 0;
+}
