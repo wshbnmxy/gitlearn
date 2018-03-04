@@ -7,5 +7,5 @@ int fun()
 
 int finish()
 {
-	return 3;
+	return 4;
 }
